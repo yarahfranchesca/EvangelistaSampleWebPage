@@ -1,6 +1,7 @@
 import React from "react";
 import "./about.css";
 import Image from "../../assets/1x1.jpg"
+import Pdf from '../../assets/EvangelistaCV.pdf';
 
 const About = () => {
     return (
@@ -20,7 +21,9 @@ const About = () => {
         <p className="about__description"><br/>Passionate Information Technology Graduate that
         is seeking a career in a progressive company that provides an opportunity to capitalize my 
         proficient knowledge in a range of computer systems, languages, tools and testing methodologies. </p>
-        <a href="" className="btn">Download CV</a>
+        <a href={Pdf} download="Evangelista Resume" target='_blank'>
+<button type="button" className="btn">Download Resume</button>
+</a>
 
        </div>
 

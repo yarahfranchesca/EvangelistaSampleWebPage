@@ -9,14 +9,14 @@ const data = [
     {
       id: 1,
       image: Image1,
-      title: "UI/UX design",
+      title: "Personal Skills",
       description:
         "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
     },
     {
       id: 2,
       image: Image2,
-      title: "Web Development",
+      title: "Technical Skills",
       description:
         "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
     },

@@ -22,8 +22,8 @@ const About = () => {
         is seeking a career in a progressive company that provides an opportunity to capitalize my 
         proficient knowledge in a range of computer systems, languages, tools and testing methodologies. </p>
         <a href={Pdf} download="Evangelista Resume" target='_blank'>
-<button type="button" className="btn">Download Resume</button>
-</a>
+            <button type="button" className="btn">Download Resume</button>
+                </a>
 
        </div>
 

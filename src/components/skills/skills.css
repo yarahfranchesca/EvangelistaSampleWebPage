@@ -46,6 +46,11 @@
 .skills__card:nth-child(2) .skills__description {
     color: var(--text-color);
 }
+.skills__img {
+    border-radius: 30%;
+    width: 100px;
+    height: 100px;
+}
 
 @media screen and (max-width: 1024px) {
     .skills__container {

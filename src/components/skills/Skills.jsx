@@ -2,7 +2,7 @@
 import React from "react";
 import "./skills.css";
 import Image1 from "../../assets/service-1.svg";
-import Image2 from "../../assets/service-2.svg";
+import Image2 from "../../assets/bld.jpg";
 import Image3 from "../../assets/service-3.svg";
 
 const data = [
@@ -11,22 +11,23 @@ const data = [
       image: Image1,
       title: "Personal Skills",
       description:
-        "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+        "Excellent in written and verbal skills, Collaborative and a Team Worker, Critical Thinker and Detail Oriented, Diverse, Manages Time Efficiently, Strong Communication"
     },
     {
       id: 2,
       image: Image2,
-      title: "Technical Skills",
+      title: "Internship Acquired Skills",
       description:
-        "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+      "Contributed on creating Onboarding Process Flow and RACI matrix, Ensures new hires have technical assistance prior to taking actual tasks, Assisted PMO with documentation and other project deliverables, Provided and Presented Onboarding Overview for new resources to detail the roadmap of onboarding, Basic Proficiency in Agile Scrum and Kanban, Basic Proficiency in ITIL (Incident, Problem and Change Management"
     },
     {
       id: 3,
       image: Image3,
-      title: "Photography",
+      title: "Technical Skills",
       description:
-        "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
-    },
+      " Knowledge in Programming (Java, C++, Visual Studio, Python), Web Development (HTML, CSS, REST APIs, REACT), Microsoft Office (Word, Excel, Powerpoint, etc.), Adobe Creative Suite (Photoshop, Animate), Video Editing (Adobe Premiere and Capcut), Design Thinking" 
+  },
+      
   ];
 
 const Skills = () => {

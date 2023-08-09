@@ -13,7 +13,11 @@ const Works = () => {
     }
     return (
     <section className="work container section" id="works">
+        
         <h2 className="section__title">Sample Works</h2>
+        <a href="https://drive.google.com/drive/u/0/folders/19K5E3vtC8iQAL1ybmxo1mYaVdb4UfmcI"  target='_blank'>
+            <button type="button" className="btn">Link for all Sample Works</button></a>
+
 
         <div className="work__filters">
             <span className="work__item" onClick={() => setItems
@@ -25,7 +29,8 @@ const Works = () => {
             <span className="work__item" onClick={() => filterItem
             ("Design")}>Design</span>
             <span className="work__item" onClick={() => filterItem
-            ("Branding")}>Branding</span>
+            ("Single Page Works")}>Single Page Works</span>
+
         </div>
 
         <div className="work__container grid">
@@ -35,7 +40,7 @@ const Works = () => {
                 return (
                     <div className="work__card" key={id}>
                         <div className="work__thumbnail">
-                            <img src={image} alt="" className="work__img" />
+                            <img src={image} alt="" className="work__img"/>
                             <div className="work__mask"></div> 
                             </div>
 
@@ -45,7 +50,10 @@ const Works = () => {
                                 <a href="#" className="work__button">
                                 <i className="icon-link work__button-icon"></i>
 
+                           
+
                                 </a>
+
                                 </div>
                 )
                 

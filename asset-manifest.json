@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/EvangelistaSampleWebpage/static/css/main.fee32521.css",
+    "main.js": "/EvangelistaSampleWebpage/static/js/main.60f3399a.js",
+    "static/media/1x1.jpg": "/EvangelistaSampleWebpage/static/media/1x1.fbb6085e75a4f8416b54.jpg",
+    "static/media/webpage3.jpg": "/EvangelistaSampleWebpage/static/media/webpage3.ace691470ee16e533218.jpg",
+    "static/media/game11.jpg": "/EvangelistaSampleWebpage/static/media/game11.0ec0dbe6e5bd391f8b20.jpg",
+    "static/media/webpage1.jpg": "/EvangelistaSampleWebpage/static/media/webpage1.12e43534975bcc470f6f.jpg",
+    "static/media/work-4.svg": "/EvangelistaSampleWebpage/static/media/work-4.b1e5c1341899ee00d86d6c613f593837.svg",
+    "static/media/service-1.svg": "/EvangelistaSampleWebpage/static/media/service-1.cf1ed095ef4b3f923356075cee1bc398.svg",
+    "static/media/work-6.svg": "/EvangelistaSampleWebpage/static/media/work-6.e53b868f21628c547fd12d76c5b599db.svg",
+    "static/media/work-5.svg": "/EvangelistaSampleWebpage/static/media/work-5.d7139045fa5cd7bea4b9807b31919a00.svg",
+    "static/media/service-3.svg": "/EvangelistaSampleWebpage/static/media/service-3.a324186e2cfcc11f1ad1ea2c0a4ffa55.svg",
+    "static/media/service-2.svg": "/EvangelistaSampleWebpage/static/media/service-2.5c151f1353d4629154fbf0e537115128.svg",
+    "static/media/dots-bg.svg": "/EvangelistaSampleWebpage/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "index.html": "/EvangelistaSampleWebpage/index.html",
+    "main.fee32521.css.map": "/EvangelistaSampleWebpage/static/css/main.fee32521.css.map",
+    "main.60f3399a.js.map": "/EvangelistaSampleWebpage/static/js/main.60f3399a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fee32521.css",
+    "static/js/main.60f3399a.js"
+  ]
+}
